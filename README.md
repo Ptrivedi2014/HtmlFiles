@@ -1,3 +1,3 @@
-hello i;m pradyumna.trivedi
+hello i'm pradyumna.trivedi
 these are my html files
-this is workin progress
+this is work in progress
